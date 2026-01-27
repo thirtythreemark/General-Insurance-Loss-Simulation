@@ -5,7 +5,7 @@ portfolio risk and capital requirements using Monte Carlo simulation.
 
 ## Objective
 To model a property insurance portfolio and assess how proportional and
-non-proportional reinsurance structures affect volatility, tail risk,
+non-proportional reinsurance structures affect volatility, tail risk
 and solvency capital.
 
 ## Methodology
@@ -26,7 +26,7 @@ and solvency capital.
 ## Files
 - `report/` – Full written report (PDF)
 - `code/` – Python scripts for simulation, reinsurance and capital modelling
-- `results/` – Summary output tables
+
 
 ## Tools
-Python, NumPy, SciPy, pandas
+Python, NumPy
